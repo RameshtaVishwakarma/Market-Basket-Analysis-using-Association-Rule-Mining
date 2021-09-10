@@ -16,7 +16,7 @@ for numerous marketing strategies
 
 ## Run Locally
 
-you can download the source code and run it in Google Colab or Jupyter Notebook.
+You can download the source code and run it in Google Colab or Jupyter Notebook.
 
    
 ## Project Report and Dataset
